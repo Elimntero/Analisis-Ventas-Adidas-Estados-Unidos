@@ -21,9 +21,10 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 <p><h3>:page_with_curl:Estructura del Proyecto</h3></p>
 <p>El proyecto está organizado de la siguiente manera:</p>
 <ul>
-<li>├── data/               # Datos crudos y procesados</li>
-<li>│   ├── Adidas_US_Sales Datasets.xlsx</li>
-<li>├── dashboards/         # Representaciones visuales interactivas</li>
+<li>├── Imágenes            # Logos, imágenes</li>
+<li>├── Análisis Adidas US Sales.xlsx           # Datos crudos y procesados</li>
+   <li>        ├── dashboards/         # Representaciones visuales interactivas</li>
+   <li>        ├── dashboards/         # Representaciones visuales interactivas</li>
 <li>├── src/                # Scripts de procesamiento y análisis</li>
 <li>├── README.md           # Descripción del proyecto</li>
 </ul>
