@@ -1,4 +1,4 @@
-[https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg?raw=true](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg)
+![[https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg?raw=true](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg)]
 
 📊 ANÁLISIS DE VENTAS DE ADIDAS EN ESTADOS UNIDOS
 
