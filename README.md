@@ -1,5 +1,7 @@
 📊 ANÁLISIS DE VENTAS DE ADIDAS EN ESTADOS UNIDOS
+
 📖 Descripción del Proyecto
+
 Este proyecto explora las ventas de Adidas en Estados Unidos con el objetivo de identificar tendencias clave, patrones regionales, y realizar un análisis de rentabilidad por producto y ubicación. Se utiliza un conjunto de datos que incluye detalles sobre los minoristas, fechas de venta, regiones, y métricas financieras, con visualizaciones y dashboards para facilitar el entendimiento.
 El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida por ofrecer recursos de datos de alta calidad para proyectos de análisis y aprendizaje automático.
 Objetivo
