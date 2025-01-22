@@ -1,3 +1,5 @@
+https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg?raw=true
+
 📊 ANÁLISIS DE VENTAS DE ADIDAS EN ESTADOS UNIDOS
 
 📖 Descripción del Proyecto
