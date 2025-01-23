@@ -41,12 +41,14 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 <p><h3>:heavy_check_mark:Resultados y Conclusiones</h3></p>
 <ol>
    <li>  Las regiones del Noreste y el Sureste lideran en ventas totales.</li>
+    
+![Ventas totales](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Unidades%20vendidas..png)
    <li> Los productos de calzado deportivo masculino son los más rentables.</li>
     
-   ![Rentabilidad](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Calzado%20m%C3%A1s%20rentable..png)
+![Rentabilidad](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Calzado%20m%C3%A1s%20rentable..png)
    <li> El método de ventas en tienda genera mayores ingresos en comparación con otros canales.</li>
    
-  ![Tienda/online](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Tienda%20u%20online.png)
+![Tienda/online](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Tienda%20u%20online.png)
    <li>Margen operativo promedio: 35%, indicando una buena eficiencia operativa.</li>
   </ol>
   
