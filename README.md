@@ -15,7 +15,6 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 <ul>
 <li>Análisis exploratorio de datos (EDA) con la herramienta de Excel. 
     
-![Logo Excel](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Microsoft%20office%20EXCEL.png)
 <li>Cálculo de indicadores clave: margen operativo, ganancias totales y unidades vendidas.
 <li>Creación de dashboards interactivos para visualizar los resultados.
 </ul> 
@@ -24,16 +23,20 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 <p><h3>:label:Estructura del Proyecto</h3></p>
 <p>El proyecto está organizado de la siguiente manera:</p>
 <ul>
-<li>├── Imágenes            # Logos, imágenes</li>
-<li>├── Análisis Adidas US Sales.xlsx           # Datos crudos y procesados</li>
+<li>├── Imágenes. Logos, imágenes</li>
+<li>├── Análisis Adidas US Sales.xlsx. Datos crudos y procesados</li>
     <ul>
-       <li>├── Data Sales Adidas/         # Datos crudos</li>
-       <li>├── Dashboards/         # Representaciones visuales interactivas</li>
-       <li>├── Análisis/         # Datos procesados</li>
-<li>├── README.md           # Descripción del proyecto</li>
-</ul>
+       <li>├── Data Sales Adidas. Datos crudos</li>
+       <li>├── Dashboards. Representaciones visuales interactivas</li>
+       <li>├── Análisis. Datos procesados</li>
+       </ul>
+<li>├── Datos (en bruto) Adidas US Sales</li>
+<li>├── README.md. Descripción del proyecto</li>
+
 <p><h3>:computer:Instalación y Requisitos</h3></p>
 <p>Este proyecto utiliza Excel para realizar el análisis de los datos obtenidos.</p>
+
+![Logo Excel](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Microsoft%20office%20EXCEL.png)
 
 <p><h3>:heavy_check_mark:Resultados y Conclusiones</h3></p>
 <ol>
@@ -42,6 +45,7 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
    <li> El método de ventas en tienda genera mayores ingresos en comparación con otros canales.</li>
    <li>Margen operativo promedio: 35%, indicando una buena eficiencia operativa.</li>
   </ol>
+  
 Los gráficos clave están disponibles en el dashboard interactivo incluido.
 
 <p><h3>:next_track_button:Próximos Pasos</h3></p>
