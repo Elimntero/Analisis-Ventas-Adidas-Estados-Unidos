@@ -13,7 +13,9 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 </ul>
 <p><h3>:chart_with_upwards_trend:Técnicas Utilizadas</h3></p>
 <ul>
-<li>Análisis exploratorio de datos (EDA) con la herramienta de Excel.
+<li>Análisis exploratorio de datos (EDA) con la herramienta de Excel. 
+    
+![Logo Excel](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Microsoft%20office%20EXCEL.png)
 <li>Cálculo de indicadores clave: margen operativo, ganancias totales y unidades vendidas.
 <li>Creación de dashboards interactivos para visualizar los resultados.
 </ul> 
