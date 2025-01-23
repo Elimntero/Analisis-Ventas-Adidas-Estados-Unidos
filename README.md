@@ -53,14 +53,21 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
    
 ![Margen Operativo](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Margen.png)
   </ol>
-  
-Los gráficos clave están disponibles en el dashboard interactivo incluido.
 
 <p><h3>:next_track_button:Próximos Pasos</h3></p>
+<p>Adidas podría seguir los siguientes pasos estratégicos con vista al futuro para maximizar el crecimiento y consolidar su éxito:</p>
 <ul>
-<li>Incorporar datos de factores externos (marketing, eventos, etc.).</li>
-<li>Realizar modelado predictivo para estimar ventas futuras.</li>
-<li>Automatizar la actualización del dashboard con nuevos datos.</li>
+<li>Expandir el número de tiendas físicas en estas regiones, optimizando la ubicación en áreas de alto tráfico comercial.</li>
+<li>Diseñar campañas de marketing dirigidas específicamente a estas regiones, utilizando datos demográficos y culturales para personalizar mensajes publicitarios.</li>
+<li>Ofrecer eventos locales, promociones exclusivas y colaboraciones con influencers locales para reforzar el vínculo de marca.</li>
+<li>Ampliar la oferta de calzado deportivo masculino, ya que es el segmento más rentable.</li>
+<li>Explorar oportunidades en otros segmentos con potencial de crecimiento (e.g., calzado y ropa femenino y juvenil y ropa masculina).</li>
+<li>Optimizar los canales de ventas en tienda física.</li>
+<li>Aumentar la eficiencia en mercados menos dominantes.</li>
+<li>Mantener la eficiencia operativa.</li>
+<li>Invertir en innovación y sostenibilidad.</li>
+<li>Fortalecer las ventas digitales sin canibalizar las tiendas físicas.</li>
+<li>Explorar nuevos mercados y oportunidades internacionales.</li>
 </ul>
 
 <p><h3>:technologist:Autores y Agradecimientos</h3></p>
