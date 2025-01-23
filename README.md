@@ -17,7 +17,9 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 <li>Análisis exploratorio de datos (EDA) con la herramienta de Excel.
 <li>Cálculo de indicadores clave: margen operativo, ganancias totales y unidades vendidas.
 <li>Creación de dashboards interactivos para visualizar los resultados.
-</ul>
+</ul> 
+
+![Dashboard Adidas](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Dashboard%20Adidas.png)
 <p><h3>:label:Estructura del Proyecto</h3></p>
 <p>El proyecto está organizado de la siguiente manera:</p>
 <ul>
