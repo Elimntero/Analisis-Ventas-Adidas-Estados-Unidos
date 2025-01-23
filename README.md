@@ -13,7 +13,7 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 </ul>
 <p><h3>:chart_with_upwards_trend:Técnicas Utilizadas</h3></p>
 <ul>
-<li>Análisis exploratorio de datos (EDA) con la herramienta de Excel.
+<li>Análisis exploratorio de datos (EDA) con la herramienta de Excel. 
 <li>Cálculo de indicadores clave: margen operativo, ganancias totales y unidades vendidas.
 <li>Creación de dashboards interactivos para visualizar los resultados.
 </ul> 
