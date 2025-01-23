@@ -50,6 +50,8 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
    
 ![Tienda/online](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Tienda%20u%20online.png)
    <li>Margen operativo promedio: 35%, indicando una buena eficiencia operativa.</li>
+   
+![Margen Operativo](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Margen.png)
   </ol>
   
 Los gráficos clave están disponibles en el dashboard interactivo incluido.
