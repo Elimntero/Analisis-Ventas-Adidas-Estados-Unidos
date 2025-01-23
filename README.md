@@ -1,6 +1,5 @@
 ![Encabezado Logo Adidas](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/adidas-banner.jpg)
-
-<h1 align="center"> :bar_chart: ANÁLISIS DE VENTAS DE ADIDAS EN ESTADOS UNIDOS </h1>
+<h1 align="center">:bar_chart: ANÁLISIS DE VENTAS DE ADIDAS EN ESTADOS UNIDOS </h1>
 
 <p><h3>:page_with_curl:Descripción del Proyecto</h3></p><p>Este proyecto explora las ventas de Adidas en Estados Unidos con el objetivo de identificar tendencias clave, patrones regionales, y realizar un análisis de rentabilidad por producto y ubicación. Se utiliza un conjunto de datos que incluye detalles sobre los minoristas, fechas de venta, regiones, y métricas financieras, con visualizaciones y dashboards para facilitar el entendimiento.
 El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida por ofrecer recursos de datos de alta calidad para proyectos de análisis y aprendizaje automático.</p>
