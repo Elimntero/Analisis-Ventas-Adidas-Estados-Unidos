@@ -43,16 +43,19 @@ Este proyecto utiliza Excel para realizar el análisis de los datos obtenidos.
 
 **:heavy_check_mark:Resultados y Conclusiones**
 
-Las regiones del Noreste y el Sureste lideran en ventas totales.
-    
+1. _Las regiones del Noreste y el Sureste lideran en ventas totales_.
+
 ![Ventas totales](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Unidades%20vendidas..png)
-Los productos de calzado deportivo masculino son los más rentables.
-    
+
+2. _Los productos de calzado deportivo masculino son los más rentables_.
+
 ![Rentabilidad](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Calzado%20m%C3%A1s%20rentable..png)
-El método de ventas en tienda genera mayores ingresos en comparación con otros canales.
-   
+
+3. _El método de ventas en tienda genera mayores ingresos en comparación con otros canales_. 
+
 ![Tienda/online](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Tienda%20u%20online.png)
-Margen operativo promedio: 35%, indicando una buena eficiencia operativa.
+
+4. _Margen operativo promedio: 35%, indicando una buena eficiencia operativa_.
 
 ![Margen Operativo](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Margen.png)
 
