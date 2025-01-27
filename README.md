@@ -80,5 +80,5 @@ Adidas podría seguir los siguientes pasos estratégicos con vista al futuro par
 **:technologist:Autores y Agradecimientos**
 
 Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
-Inspiración: Dataset proporcionado [Duck Duck Go](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/discussion/431043)  y el soporte de herramientas.
+Inspiración: [Dataset Ventas Adidas en USA](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/discussion/431043) proporcionado y el soporte de herramientas.
 
