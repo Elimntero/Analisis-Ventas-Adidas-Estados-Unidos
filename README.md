@@ -60,25 +60,25 @@ Este proyecto utiliza Excel para realizar el análisis de los datos obtenidos.
 ![Margen Operativo](https://github.com/Elimntero/Analisis-Ventas-Adidas-Estados-Unidos/blob/main/Imagenes/Margen.png)
 
 
-<p><h3>:next_track_button:Próximos Pasos</h3></p>
-<p>Adidas podría seguir los siguientes pasos estratégicos con vista al futuro para maximizar el crecimiento y consolidar su éxito:</p>
-<ul>
-<li>Expandir el número de tiendas físicas en estas regiones, optimizando la ubicación en áreas de alto tráfico comercial.</li>
-<li>Diseñar campañas de marketing dirigidas específicamente a estas regiones, utilizando datos demográficos y culturales para personalizar mensajes publicitarios.</li>
-<li>Ofrecer eventos locales, promociones exclusivas y colaboraciones con influencers locales para reforzar el vínculo de marca.</li>
-<li>Ampliar la oferta de calzado deportivo masculino, ya que es el segmento más rentable.</li>
-<li>Explorar oportunidades en otros segmentos con potencial de crecimiento (e.g., calzado y ropa femenino y juvenil y ropa masculina).</li>
-<li>Optimizar los canales de ventas en tienda física.</li>
-<li>Aumentar la eficiencia en mercados menos dominantes.</li>
-<li>Mantener la eficiencia operativa.</li>
-<li>Invertir en innovación y sostenibilidad.</li>
-<li>Fortalecer las ventas digitales sin canibalizar las tiendas físicas.</li>
-<li>Explorar nuevos mercados y oportunidades internacionales.</li>
-</ul>
+**:next_track_button:Próximos Pasos**
 
-<p><h3>:technologist:Autores y Agradecimientos</h3></p>
-<ul>
-<li>Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
-<li>Inspiración: Dataset proporcionado (https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/discussion/431043)  y el soporte de herramientas 
-</ul>
+Adidas podría seguir los siguientes pasos estratégicos con vista al futuro para maximizar el crecimiento y consolidar su éxito:
+
+- Expandir el número de tiendas físicas en estas regiones, optimizando la ubicación en áreas de alto tráfico comercial.
+- Diseñar campañas de marketing dirigidas específicamente a estas regiones, utilizando datos demográficos y culturales para personalizar mensajes publicitarios.
+- Ofrecer eventos locales, promociones exclusivas y colaboraciones con influencers locales para reforzar el vínculo de marca.
+- Ampliar la oferta de calzado deportivo masculino, ya que es el segmento más rentable.
+- Explorar oportunidades en otros segmentos con potencial de crecimiento (e.g., calzado y ropa femenino y juvenil y ropa masculina).
+- Optimizar los canales de ventas en tienda física.
+- Aumentar la eficiencia en mercados menos dominantes.
+- Mantener la eficiencia operativa.
+- Invertir en innovación y sostenibilidad.
+- Fortalecer las ventas digitales sin canibalizar las tiendas físicas.
+- Explorar nuevos mercados y oportunidades internacionales.
+
+
+**:technologist:Autores y Agradecimientos**
+
+Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
+Inspiración: Dataset proporcionado (https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/discussion/431043)  y el soporte de herramientas.
 
