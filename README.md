@@ -8,6 +8,22 @@ El conjunto de datos utilizado fue obtenido de Kaggle, una plataforma reconocida
 
 **:money_with_wings:Objetivo**
 
+Para realizar el análisis, se han utilizado los siguientes datos:
+
+- Retailer: Nombre del minorista que realizó la venta.
+- Retailer ID: Identificación única del minorista.
+- Invoice Date: Fecha en la que se generó la factura de la venta (formato YYYY-MM-DD).
+- Region: Región de EE.UU. donde ocurrió la venta (Ej.: Oeste, Este, Sur, Medio Oeste).
+- State: Estado de EE.UU. donde se realizó la venta.
+- City: Ciudad donde se realizó la venta.
+- Product: Nombre o descripción del producto vendido.
+- Price per Unit: Precio unitario del producto en dólares.
+- Units Sold: Cantidad de unidades vendidas en la transacción.
+- Total Sales: Importe total de la venta (Price per Unit × Units Sold).
+- Operating Profit: Ganancia operativa obtenida en la venta.
+- Operating Margin: Margen de ganancia operativa expresado en porcentaje.
+- Sales Method: Método de venta utilizado (Ej.: en tienda, en línea, por teléfono).
+
 El análisis busca responder preguntas como:
 
 - ¿Cuáles son las regiones con mayores ventas y rentabilidad?.
